@@ -2,7 +2,7 @@
 #
 # Cada tarefa a ser executada deve ser definida por uma única linha
 # indicando com diferentes campos quando a tarefa será executada
-# e qual comando executar para a tarefa
+# e qual comando executar para a tarefa.
 #
 # Para definir o tempo, você pode fornecer valores concretos para
 # minuto (m), hora (h), dia do mês (dom), mês (mon),
