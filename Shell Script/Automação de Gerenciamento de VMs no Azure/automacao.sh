@@ -1,5 +1,5 @@
 #!/bin/bash
-# Script escrito por Weslley Inocencio
+# Script escrito por WeslleyInocencio
 # Inicia e finaliza VM conforme parâmetros
 # ./administravm.sh NOMEDAVM stop (finaliza VM)
 # ./administravm.sh NOMEDAVM start (inicia VM)
